@@ -15,5 +15,5 @@ I'm a Product Designer, Software Engineer, Youtuber, and Language Lover, current
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marionbraide&show_icons=true&include_all_commits=true&hide_border=true" alt="MarionBraide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="MarionBraide's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pyeonghwassi&show_icons=true&count_private=true&theme=vue" alt="MarionBraide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=pyeonghwassi&show_icons=true&count_private=true&theme=vue" alt="MarionBraide's GitHub stats" /> | <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pyeonghwassi&theme=vue" alt="Profile Summary" /> |
 | ------------- | ------------- |
