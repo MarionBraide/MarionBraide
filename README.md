@@ -11,9 +11,9 @@ I'm a Product Designer, Software Engineer, Youtuber, and Language Lover, current
 - 🌱 I’m currently learning JavaScript, OSS, and Python.
 - 😊 I’m looking for help with open source projects, youtube collaborations, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, UX Researcher or Product Designer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing peaceibinabobraide@gmail.com.
+- 📫 You can contact me by emailing peaceibinabobraide@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="MarionBraide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="MarionBraide's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marionbraide&show_icons=true&include_all_commits=true&hide_border=true" alt="MarionBraide's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="MarionBraide's GitHub stats" /> |
 | ------------- | ------------- |
