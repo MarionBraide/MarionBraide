@@ -7,7 +7,7 @@ I'm a Product Designer, Software Engineer, Youtuber, and Language Lover, current
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, OOP, aT Nithub Unilag..
 - 😊 I’m looking for help with open source projects, youtube collaborations, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, UX Researcher or Product Designer (Intern or Junior level).
