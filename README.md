@@ -8,9 +8,9 @@ I'm a Product Designer, Software Engineer, Youtuber, and Language Lover, current
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, OOP, aT Nithub Unilag..
+- 🌱 I’m currently doing a 100 days of code challenge to up my python game
 - 😊 I’m looking for help with open source projects, youtube collaborations, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer, UX Researcher or Product Designer (Intern or Junior level).
+- 💼 Job interests: Software Engineering, UX Design, Creative Project management
 - 📫 You can contact me by emailing peaceibinabobraide@gmail.com.
 
 ---
